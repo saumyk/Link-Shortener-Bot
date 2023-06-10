@@ -11,7 +11,7 @@ API_ID = environ.get('5604474')
 API_HASH = environ.get('45425c2c16f2c177c71b5748fb87c3ad')
 BOT_TOKEN = environ.get('6024380614:AAET6k4iKbyJ0mA_XkLsxos9h_L0pQ3Ubkg')
 API_KEY = environ.get('6b9780330de6847a5750c9d404eae5e0daa5d76a')
-API_URL = environ.get('')
+API_URL = environ.get('http://dsshortener.xyz/api')
 
 akbotz = Client('link shortener bot',
              api_id=API_ID,
